@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "481619807721",
+    "project_id": "alexo-app",
+    "storage_bucket": "alexo-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:481619807721:android:ae0fd96e76ccb634f0cf78",
+        "android_client_info": {
+          "package_name": "com.example.alexo_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7IV-2HTs5N_V8BqIRpvSscRmTRl4auIM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
